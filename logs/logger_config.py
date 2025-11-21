@@ -14,7 +14,7 @@ def setup_logger(log_filename):
 
      # Full path to log file   
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")                                                  
-    LOG_PATH = os.path.join(LOG_DIR, f'{timestamp}log.txt')
+    LOG_PATH = os.path.join(LOG_DIR, f'{log_filename}{timestamp}_log.txt')
 
     # Configure logging
     logging.basicConfig(
