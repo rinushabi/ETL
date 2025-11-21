@@ -86,7 +86,8 @@ def transformed_data()->None:
     df_final = pd.concat(df_final)
     print('The transformed dataframe is',df_final)
     df_final.to_csv(output_file)
-    print("Saved cleaned file to:", output_file)         
+    print("Saved cleaned file to:", output_file)
+    # return df_final         
 
 
 #date time function definition
