@@ -1,0 +1,68 @@
+2025-11-21 15:04:47,915 - transform_data- INFO - Transformation started for station 257
+2025-11-21 15:04:47,915 - transform_data- INFO - Reading input file: C:/Users/ec.raihana/Desktop/Assignment 1/Data/Raw/knmi_257_2020-01-01_to_2022-12-31.csv
+2025-11-21 15:04:47,974 - transform_data- INFO - File read successfully
+2025-11-21 15:04:48,014 - transform_data- INFO - Column names standardized
+2025-11-21 15:04:48,014 - transform_data- INFO - Parsing datetime started
+2025-11-21 15:04:48,029 - transform_data- INFO - Datetime parsing successful
+2025-11-21 15:04:48,030 - transform_data- INFO - Datetime parsing completed
+2025-11-21 15:04:48,043 - transform_data- INFO - This is the count of missing values before cleaning:
+2025-11-21 15:04:48,043 - transform_data- INFO - Renaming columns
+2025-11-21 15:04:48,049 - transform_data- INFO - Columns renamed successfully
+2025-11-21 15:04:48,050 - transform_data- INFO - Columns renamed as per mapping
+2025-11-21 15:04:48,116 - transform_data- INFO - Unnecessary columns dropped and datetime set as index
+2025-11-21 15:04:48,186 - transform_data- INFO - Converted selected columns to numeric
+2025-11-21 15:04:48,187 - transform_data- INFO - Computing derivative features
+2025-11-21 15:04:48,195 - transform_data- INFO - Derivative features computed successfully
+2025-11-21 15:04:48,195 - transform_data- INFO - Derivative features added
+2025-11-21 15:04:48,197 - transform_data- INFO - Transformation completed for station 257
+2025-11-21 15:04:48,198 - transform_data- INFO - Transformation started for station 275
+2025-11-21 15:04:48,198 - transform_data- INFO - Reading input file: C:/Users/ec.raihana/Desktop/Assignment 1/Data/Raw/knmi_275_2020-01-01_to_2022-12-31.csv
+2025-11-21 15:04:48,270 - transform_data- INFO - File read successfully
+2025-11-21 15:04:48,322 - transform_data- INFO - Column names standardized
+2025-11-21 15:04:48,323 - transform_data- INFO - Parsing datetime started
+2025-11-21 15:04:48,338 - transform_data- INFO - Datetime parsing successful
+2025-11-21 15:04:48,338 - transform_data- INFO - Datetime parsing completed
+2025-11-21 15:04:48,347 - transform_data- INFO - This is the count of missing values before cleaning:
+2025-11-21 15:04:48,347 - transform_data- INFO - Renaming columns
+2025-11-21 15:04:48,350 - transform_data- INFO - Columns renamed successfully
+2025-11-21 15:04:48,352 - transform_data- INFO - Columns renamed as per mapping
+2025-11-21 15:04:48,371 - transform_data- INFO - Unnecessary columns dropped and datetime set as index
+2025-11-21 15:04:48,373 - transform_data- INFO - Converted selected columns to numeric
+2025-11-21 15:04:48,373 - transform_data- INFO - Computing derivative features
+2025-11-21 15:04:48,382 - transform_data- INFO - Derivative features computed successfully
+2025-11-21 15:04:48,382 - transform_data- INFO - Derivative features added
+2025-11-21 15:04:48,384 - transform_data- INFO - Transformation completed for station 275
+2025-11-21 15:04:48,384 - transform_data- INFO - Transformation started for station 308
+2025-11-21 15:04:48,384 - transform_data- INFO - Reading input file: C:/Users/ec.raihana/Desktop/Assignment 1/Data/Raw/knmi_308_2020-01-01_to_2022-12-31.csv
+2025-11-21 15:04:48,449 - transform_data- INFO - File read successfully
+2025-11-21 15:04:48,473 - transform_data- INFO - Column names standardized
+2025-11-21 15:04:48,473 - transform_data- INFO - Parsing datetime started
+2025-11-21 15:04:48,491 - transform_data- INFO - Datetime parsing successful
+2025-11-21 15:04:48,491 - transform_data- INFO - Datetime parsing completed
+2025-11-21 15:04:48,508 - transform_data- INFO - This is the count of missing values before cleaning:
+2025-11-21 15:04:48,509 - transform_data- INFO - Renaming columns
+2025-11-21 15:04:48,513 - transform_data- INFO - Columns renamed successfully
+2025-11-21 15:04:48,515 - transform_data- INFO - Columns renamed as per mapping
+2025-11-21 15:04:48,540 - transform_data- INFO - Unnecessary columns dropped and datetime set as index
+2025-11-21 15:04:48,589 - transform_data- INFO - Converted selected columns to numeric
+2025-11-21 15:04:48,589 - transform_data- INFO - Computing derivative features
+2025-11-21 15:04:48,599 - transform_data- INFO - Derivative features computed successfully
+2025-11-21 15:04:48,599 - transform_data- INFO - Derivative features added
+2025-11-21 15:04:48,600 - transform_data- INFO - Transformation completed for station 308
+2025-11-21 15:04:48,600 - transform_data- INFO - Transformation started for station 310
+2025-11-21 15:04:48,600 - transform_data- INFO - Reading input file: C:/Users/ec.raihana/Desktop/Assignment 1/Data/Raw/knmi_310_2020-01-01_to_2022-12-31.csv
+2025-11-21 15:04:48,672 - transform_data- INFO - File read successfully
+2025-11-21 15:04:48,739 - transform_data- INFO - Column names standardized
+2025-11-21 15:04:48,739 - transform_data- INFO - Parsing datetime started
+2025-11-21 15:04:48,754 - transform_data- INFO - Datetime parsing successful
+2025-11-21 15:04:48,754 - transform_data- INFO - Datetime parsing completed
+2025-11-21 15:04:48,764 - transform_data- INFO - This is the count of missing values before cleaning:
+2025-11-21 15:04:48,764 - transform_data- INFO - Renaming columns
+2025-11-21 15:04:48,767 - transform_data- INFO - Columns renamed successfully
+2025-11-21 15:04:48,769 - transform_data- INFO - Columns renamed as per mapping
+2025-11-21 15:04:48,789 - transform_data- INFO - Unnecessary columns dropped and datetime set as index
+2025-11-21 15:04:48,792 - transform_data- INFO - Converted selected columns to numeric
+2025-11-21 15:04:48,792 - transform_data- INFO - Computing derivative features
+2025-11-21 15:04:48,801 - transform_data- INFO - Derivative features computed successfully
+2025-11-21 15:04:48,801 - transform_data- INFO - Derivative features added
+2025-11-21 15:04:48,803 - transform_data- INFO - Transformation completed for station 310
